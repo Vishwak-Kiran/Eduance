@@ -40,7 +40,7 @@ class CustomAppBar extends StatelessWidget {
             height: 50,
             width: 110,
             child: ElevatedButton(
-              child: Text('start class'),
+              child: Text('Start Intro'),
               style: ElevatedButton.styleFrom(
                   primary: kAccent,
                   elevation: 0,
@@ -51,7 +51,7 @@ class CustomAppBar extends StatelessWidget {
                     context,
                     MaterialPageRoute(
                         builder: (context) => CustomYoutubePlayer(
-                            "https://www.youtube.com/watch?v=jh7Ddb3LrS8&ab_channel=Insym")));
+                            "https://www.youtube.com/watch?v=I9ceqw5Ny-4")));
               },
             ),
           ),
@@ -137,13 +137,19 @@ class CustomAppBar1 extends StatelessWidget {
             height: 50,
             width: 110,
             child: ElevatedButton(
-              child: Text('start class'),
+              child: Text('Start Intro'),
               style: ElevatedButton.styleFrom(
                   primary: kAccent,
                   elevation: 0,
                   shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(15))),
-              onPressed: () {},
+              onPressed: () {
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) => CustomYoutubePlayer(
+                            "https://www.youtube.com/watch?v=Lp_1vHxOQ0I")));
+              },
             ),
           ),
         ),
@@ -228,13 +234,19 @@ class CustomAppBar2 extends StatelessWidget {
             height: 50,
             width: 110,
             child: ElevatedButton(
-              child: Text('start class'),
+              child: Text('Start Intro'),
               style: ElevatedButton.styleFrom(
                   primary: kAccent,
                   elevation: 0,
                   shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(15))),
-              onPressed: () {},
+              onPressed: () {
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) => CustomYoutubePlayer(
+                            "https://www.youtube.com/watch?v=Us6g8VrOHls")));
+              },
             ),
           ),
         ),

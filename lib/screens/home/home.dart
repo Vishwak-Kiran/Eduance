@@ -1,4 +1,5 @@
 // @dart=2.9
+import 'package:eduance/profile/profile.dart';
 import 'package:flutter/material.dart';
 import 'package:eduance/constants/colors.dart';
 import 'package:eduance/models/chat.dart';
@@ -20,7 +21,6 @@ class _HomePageState extends State<HomePage> {
       children: [
         const EmojiText(),
         const SearchInput(),
-        FeatureCourse3(),
         FeatureCourse1(),
         FeatureCourse2(),
         FeatureCourse()
@@ -29,8 +29,8 @@ class _HomePageState extends State<HomePage> {
     MyHomePage(
       title: 'Chat',
     ),
-    Text('Calender'),
-    Text('idk'),
+    Text('Form'),
+    MyApp(),
   ];
 
   void _onItenTap(int index) {
@@ -87,7 +87,7 @@ class _HomePageState extends State<HomePage> {
       title: const Padding(
           padding: EdgeInsets.only(left: 10),
           child: Text(
-            'Hello Kiran!',
+            'Hello Kiran Vishwak!',
             style: TextStyle(fontSize: 16, color: kFontLight),
           )),
       actions: [

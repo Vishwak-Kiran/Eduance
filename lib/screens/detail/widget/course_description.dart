@@ -49,7 +49,7 @@ class CourseDescription extends StatelessWidget {
                   width: 5,
                 ),
                 Text(
-                  '1h 36 min',
+                  '8 min',
                   style: TextStyle(
                       color: kFont, fontWeight: FontWeight.bold, fontSize: 16),
                 ),
@@ -67,7 +67,7 @@ class CourseDescription extends StatelessWidget {
               height: 15,
             ),
             Text(
-              'Flutter Developmentttttt',
+              'Flutter is Google\'s UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.',
               style: TextStyle(
                   wordSpacing: 2,
                   fontWeight: FontWeight.normal,
@@ -126,7 +126,7 @@ class CourseDescription1 extends StatelessWidget {
                   width: 5,
                 ),
                 Text(
-                  '1h 36 min',
+                  '15 min',
                   style: TextStyle(
                       color: kFont, fontWeight: FontWeight.bold, fontSize: 16),
                 ),
@@ -144,7 +144,7 @@ class CourseDescription1 extends StatelessWidget {
               height: 15,
             ),
             Text(
-              'Flutter Developmentttttt',
+              'Front-end web development is the practice of producing HTML, CSS and JavaScript for a website so that a user can see and interact with them directly.',
               style: TextStyle(
                   wordSpacing: 2,
                   fontWeight: FontWeight.normal,
@@ -203,7 +203,7 @@ class CourseDescription2 extends StatelessWidget {
                   width: 5,
                 ),
                 Text(
-                  '1h 36 min',
+                  '6 min',
                   style: TextStyle(
                       color: kFont, fontWeight: FontWeight.bold, fontSize: 16),
                 ),
@@ -221,7 +221,7 @@ class CourseDescription2 extends StatelessWidget {
               height: 15,
             ),
             Text(
-              'Flutter Developmentttttt',
+              'Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on',
               style: TextStyle(
                   wordSpacing: 2,
                   fontWeight: FontWeight.normal,

@@ -24,7 +24,6 @@ class _CustomYoutubePlayerState extends State<CustomYoutubePlayer> {
           desktopMode: true,
           strictRelatedVideos: true,
           showFullscreenButton: !kIsWeb,
-          startAt: Duration(minutes: 19, seconds: 44),
         ));
     super.initState();
   }

@@ -9,9 +9,9 @@ class Course {
   static List<Course> generateCourses() {
     return [
       Course('channel#1', 'assets/icons/icon1.png', 'Flutter Developer',
-          'assets/images/image3.jpg'),
+          'assets/images/imagei3.jpg'),
       Course('channel#2', 'assets/icons/icon2.png', 'Android Developer',
-          'assets/images/image4.png'),
+          'assets/images/imagei4.jpg'),
       Course('channel#3', 'assets/icons/icon1.png', 'React Developer',
           'assets/images/image5.jpg'),
     ];
@@ -47,9 +47,9 @@ class Course2 {
   static List<Course2> generateCourses2() {
     return [
       Course2('channel#1', 'assets/icons/icon1.png', 'Java Developer',
-          'assets/images/image6.jpg'),
+          'assets/images/imagei6.jpg'),
       Course2('channel#2', 'assets/icons/icon2.png', 'Python Developer',
-          'assets/images/image7.jpg'),
+          'assets/images/imagei7.jpg'),
       Course2('channel#3', 'assets/icons/icon1.png', 'C Programmer',
           'assets/images/image8.png'),
     ];
