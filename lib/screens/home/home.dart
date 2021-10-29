@@ -16,9 +16,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   int _selectedIndex = 0;
   final List<Widget> _widgetOptions = <Widget>[
-    Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      mainAxisSize: MainAxisSize.min,
+    ListView(
       children: [
         const EmojiText(),
         const SearchInput(),
@@ -28,13 +26,16 @@ class _HomePageState extends State<HomePage> {
         FeatureCourse()
       ],
     ),
-    Text('Calender'),
+    MyHomePage(
+      title: 'Chat',
+    ),
     Text('Calender'),
     Text('idk'),
   ];
 
   void _onItenTap(int index) {
     setState(() {
+      print(_selectedIndex);
       _selectedIndex = index;
     });
   }
@@ -43,8 +44,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: _buildAppBar(),
-      body: SingleChildScrollView(
-          child: _widgetOptions.elementAt(_selectedIndex)),
+      body: _widgetOptions.elementAt(_selectedIndex),
       bottomNavigationBar: _builtBottomNavigationBar(),
     );
   }
@@ -149,15 +149,6 @@ class _MyHomePageState extends State<MyHomePage> {
     // The Flutter framework has been optimized to make rerunning build methods
     // fast, so that you can just rebuild anything that needs updating rather
     // than having to individually change instances of widgets.
-    return Scaffold(
-        appBar: AppBar(
-          // Here we take the value from the MyHomePage object that was created by
-          // the App.build method, and use it to set our appbar title.
-          title: Text(widget.title),
-        ),
-        body: Center(
-            // Center is a layout widget. It takes a single child and positions it
-            // in the middle of the parent.
-            child: Chat()));
+    return Chat();
   }
 }
