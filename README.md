@@ -21,15 +21,15 @@ The application has sophisticated roadmaps to help guide new programmers in choo
 **Technologies:** DialogFlow, Google Cloud
 
 ![](Authentication.gif)
-
+\
 ![](Home Screen.gif)
-
+\
 ![](Eduance BOT.gif)
-
+\
 ![](Youtube API.gif)
-
+\
 ![](Profile Page.gif)
-
+\
 ## Authors
 
 - [@Vishwak-Kiran](https://github.com/Vishwak-Kiran)
