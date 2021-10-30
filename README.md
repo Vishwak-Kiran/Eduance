@@ -34,4 +34,32 @@ The application has sophisticated roadmaps to help guide new programmers in choo
 
 - [@Vishwak-Kiran](https://github.com/Vishwak-Kiran)
 - [@GokZ465](https://github.com/GokZ465)
+## Features
+
+- Added Youtube Player IFrame flutter plugin for playing or streaming YouTube videos inline using the official iFrame Player API.
+
+- Integrated Dialogflow chatbot which has natural language processing and it scrapes data from webpages.
+
+## Documentation
+
+[Flutter](https://flutter.dev/docs)
+
+[Firebase](https://firebase.google.com/docs)
+
+[DialogFlow](https://cloud.google.com/dialogflow/docs)
+
+[Youtube Player IFrame](https://pub.dev/packages/youtube_player_iframe)
+
+## Tech Stack
+
+**Front End:**  Dart, Flutter
+
+**Back End:** Firebase
+
+**Database:** Firestore
+
+**Authentication** FireAuth
+
+**Technologies:** DialogFlow, Google Cloud
+
 
