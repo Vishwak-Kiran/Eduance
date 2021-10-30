@@ -8,7 +8,7 @@ This is an educational app created by Kiran Vishwak and Gokul Eswaran for the na
 The idea is to develop a one-stop app for new programmers to learn coding for free without much difficulty.
 The application has sophisticated roadmaps to help guide new programmers in choosing their paths and guide their learning. The application enables users to access the best curated online tutorials, coding questions, and projects. The application has an interactive UI for ease of access. Users can resume their ongoing course.  
 
-<img src="Authentication.gif" height=400><div width=10></div><img src="Home Screen.gif" height=400>
+<img src="Authentication.gif" height=400><img src="Home Screen.gif" height=400>
 <img src="Eduance Bot.gif" height=400>
 <img src="Youtube API.gif" height=400>
 <img src="Profile Page.gif" height=400>
