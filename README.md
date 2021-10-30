@@ -35,7 +35,7 @@ The application has sophisticated roadmaps to help guide new programmers in choo
 
 **Front End:**  Dart, Flutter
 <br>
-**Back End:** Firebas
+**Back End:** Firebase
 <br>
 **Database:** Firestore
 <br>
