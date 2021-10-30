@@ -16,7 +16,7 @@ The application has sophisticated roadmaps to help guide new programmers in choo
 
 ## Features
 
-- Added Youtube Player IFrame flutter plugin for playing or streaming YouTube videos inline using the official iFrame Player API.
+- Youtube Player IFrame flutter plugin for playing or streaming YouTube videos inline using the official iFrame Player API.
 
 - Integrated Dialogflow chatbot which has natural language processing and it scrapes data from webpages.
 
