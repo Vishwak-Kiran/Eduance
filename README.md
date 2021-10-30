@@ -19,9 +19,9 @@ The application has sophisticated roadmaps to help guide new programmers in choo
 ![](Profile Page.gif)
 \
 
-<img src="Authentication.gif" height=350>
+<img src="Authentication.gif" height=450>
 \
-![](Home Screen.gif)
+<img src="Home Screen.gif" height=450>
 \
 ![](Eduance BOT.gif)
 \
