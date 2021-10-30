@@ -19,7 +19,7 @@ The application has sophisticated roadmaps to help guide new programmers in choo
 ![](Profile Page.gif)
 \
 
-<img src="images/Authentication.gif" height="250">
+<img src="images/Authentication.gif" height=350>
 \
 ![](Home Screen.gif)
 \
