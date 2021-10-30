@@ -19,6 +19,18 @@ The application has sophisticated roadmaps to help guide new programmers in choo
 ![](Profile Page.gif)
 \
 
+<img src="images/Authentication.gif" height="250">
+\
+![](Home Screen.gif)
+\
+![](Eduance BOT.gif)
+\
+![](Youtube API.gif)
+\
+![](Profile Page.gif)
+\
+
+
 ## Features
 
 - Added Youtube Player IFrame flutter plugin for playing or streaming YouTube videos inline using the official iFrame Player API.
