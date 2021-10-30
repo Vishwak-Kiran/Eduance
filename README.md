@@ -33,13 +33,13 @@ The application has sophisticated roadmaps to help guide new programmers in choo
 ## Tech Stack
 
 **Front End:**  Dart, Flutter
-/
+<br>
 **Back End:** Firebase
-/
+<br>
 **Database:** Firestore
-/
+<br>
 **Authentication** FireAuth
-/
+<br>
 **Technologies:** DialogFlow, Google Cloud
 
 ## Authors
