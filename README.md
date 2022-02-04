@@ -1,7 +1,7 @@
 
 # Eduance
 
-This is an educational app created by Kiran Vishwak and Gokul Eswaran for the national level Hackathon TekSpark'21 on 27/10/2021 hosted by Karpagam Institute of Technology, Coimbatore.
+This is an educational app created by Kiran Vishwak and Gokul Eswaran for the national level Hackathon TekSpark'21 on 27/10/2021 hosted by Karpagam Institute of Technology, Coimbatore and secured the runner up position.
 
 ## Objective
 
